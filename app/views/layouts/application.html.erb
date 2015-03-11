@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Octo</title>
+  <%= stylesheet_link_tag    'application', media: 'all', 'data-turbolinks-track' => true %>
+  <%= javascript_include_tag 'application', 'data-turbolinks-track' => true %>
+  <%= csrf_meta_tags %>
+</head>
+<body>
+<div class="row">
+	<div class="col-md-2">
+		<ul class="nav nav-pills nav-stacked">
+			<li class="<%= 'active' if params[:controller] == 'cards' %>"><a href="/cards">Cards</a></li>
+			<li class="<%= 'active' if params[:controller] == 'stories' %>"><a href="/stories">LiveHub</a></li>
+		</ul>
+	</div>
+	<div class="col-md-10">
+		<%= yield %>
+	</div>
+</div>
+
+</body>
+</html>

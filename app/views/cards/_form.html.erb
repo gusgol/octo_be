@@ -1,0 +1,61 @@
+<div class="jumbotron">
+<%= form_for(@card) do |f| %>
+  <% if @card.errors.any? %>
+    <div id="error_explanation">
+      <h2><%= pluralize(@card.errors.count, "error") %> prohibited this card from being saved:</h2>
+
+      <ul>
+      <% @card.errors.full_messages.each do |message| %>
+        <li><%= message %></li>
+      <% end %>
+      </ul>
+    </div>
+  <% end %>
+
+  <div class="form-group">
+    <%= f.label :title %><br>
+    <%= f.text_field :title, :class => "form-control" %>
+  </div>
+  <div class="form-group">
+    <%= f.label :subtitle %><br>
+    <%= f.text_field :subtitle, :class => "form-control"  %>
+  </div>
+  <div class="form-group">
+    <%= f.label :photo %><br>
+    <%= f.text_field :photo, :class => "form-control"  %>
+  </div>
+  <div class="form-group">
+    <%= f.label :publish_date %><br>
+    <%= f.date_select :publish_date%>
+  </div>
+  <div class="form-group">
+    <%= f.label :card_type %><br>
+    <%= f.text_field :card_type, :class => "form-control"  %>
+  </div>
+  <div class="form-group">
+    <%= f.label :tag %><br>
+    <%= f.text_field :tag, :class => "form-control"  %>
+  </div>
+  <div class="form-group">
+    <%= f.label :card_url %><br>
+    <%= f.text_field :card_url, :class => "form-control"  %>
+  </div>
+  <div class="form-group">
+    <%= f.label :source %><br>
+    <%= f.text_field :source, :class => "form-control"  %>
+  </div>
+  <div class="form-group">
+    <%= f.label :source_name %><br>
+    <%= f.text_field :source_name, :class => "form-control"  %>
+  </div>
+  <div class="form-group">
+    <%= f.label :sponsor %><br>
+    <%= f.text_field :sponsor, :class => "form-control"  %>
+  </div>
+  
+  <div>
+    <%= f.submit "Save", :class => "btn btn-success" %>
+  </div>
+
+<% end %>
+</div>

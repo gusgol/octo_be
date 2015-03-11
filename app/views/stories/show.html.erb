@@ -1,0 +1,34 @@
+<p id="notice"><%= notice %></p>
+
+<p>
+  <strong>Title:</strong>
+  <%= @story.title %>
+</p>
+
+<p>
+  <strong>Url:</strong>
+  <%= @story.url %>
+</p>
+
+<p>
+  <strong>Image url:</strong>
+  <%= @story.image_url %>
+</p>
+
+<p>
+  <strong>Tag:</strong>
+  <%= @story.tag %>
+</p>
+
+<p>
+  <strong>Source:</strong>
+  <%= @story.source %>
+</p>
+
+<p>
+  <strong>Publish date:</strong>
+  <%= @story.publish_date %>
+</p>
+
+<%= link_to 'Edit', edit_story_path(@story) %> |
+<%= link_to 'Back', stories_path %>

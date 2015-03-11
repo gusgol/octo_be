@@ -1,0 +1,47 @@
+<div class="jumbotron">
+  <%= form_for(@story) do |f| %>
+    <% if @story.errors.any? %>
+      <div id="error_explanation">
+        <h2><%= pluralize(@story.errors.count, "error") %> prohibited this story from being saved:</h2>
+
+        <ul>
+        <% @story.errors.full_messages.each do |message| %>
+          <li><%= message %></li>
+        <% end %>
+        </ul>
+      </div>
+    <% end %>
+
+    <div class="form-group">
+      <%= f.label :title %><br>
+      <%= f.text_field :title, :class => "form-control" %>
+    </div>
+    <div class="form-group">
+      <%= f.label :url %><br>
+      <%= f.text_field :url, :class => "form-control" %>
+    </div>
+    <div class="form-group">
+      <%= f.label :image_url %><br>
+      <%= f.text_field :image_url, :class => "form-control" %>
+    </div>
+    <div class="form-group">
+      <%= f.label :tag %><br>
+      <%= f.text_field :tag, :class => "form-control" %>
+    </div>
+    <div class="form-group">
+      <%= f.label :source %><br>
+      <%= f.text_field :source, :class => "form-control" %>
+    </div>
+    <div class="form-group">
+      <%= f.label :publish_date %><br>
+      <%= f.datetime_select :publish_date, :class => "form-control" %>
+    </div>
+    <div class="form-group">
+      <%= f.label :tag_color %><br>
+      <%= f.text_field :tag_color, :class => "form-control" %>
+    </div>
+    <div class="actions">
+      <%= f.submit "Save", :class => "btn btn-success" %>
+    </div>
+  <% end %>
+</div>

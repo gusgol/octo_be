@@ -1,0 +1,67 @@
+
+<div class="container">
+  <p id="notice"><%= notice %></p>
+
+  <div class="panel panel-default">
+    <div class="panel-heading">
+      <h3 class="panel-title"><%= @card.title %></h3>
+    </div>
+    <div class="panel-body">
+
+      <p>
+        <strong>Title:</strong>
+        <%= @card.title %>
+      </p>
+
+      <p>
+        <strong>Subtitle:</strong>
+        <%= @card.subtitle %>
+      </p>
+
+      <p>
+        <strong>Photo:</strong></br>
+        <img src="<%= @card.photo %>"></br>
+        <%= @card.photo %>
+      </p>
+
+      <p>
+        <strong>Publish date:</strong>
+        <%= @card.publish_date %>
+      </p>
+
+      <p>
+        <strong>Type:</strong>
+        <%= @card.card_type %>
+      </p>
+
+      <p>
+        <strong>Tag:</strong>
+        <%= @card.tag %>
+      </p>
+
+      <p>
+        <strong>Url:</strong>
+        <%= @card.card_url %>
+      </p>
+
+      <p>
+        <strong>Source:</strong>
+        <%= @card.source %>
+      </p>
+      <p>
+        <strong>Source Name:</strong>
+        <%= @card.source_name %>
+      </p>
+      <p>
+        <strong>Sponsor:</strong>
+        <%= @card.sponsor %>
+      </p>
+    </div>
+  </div>
+
+  <%= link_to 'Edit', edit_card_path(@card) %> |
+  <%= link_to 'Back', cards_path %>
+
+</div>
+
+

@@ -1,0 +1,53 @@
+<p id="notice"><%= notice %></p>
+
+<h1>Live</h1>
+<% if Live.all.count > 0 %>
+  <% live = Live.first %>
+
+    <div class="panel panel-default">
+      <div class="panel-body">
+        <h3><%= live.title %></h3>
+        <p><%= live.source %></p>
+        <p><%= live.url %></p>
+        <%= link_to "Edit", controller: "lives", action: "edit", id: live %>   
+      </div>
+    </div>
+<% else %>
+  <p> Não há nenhum evento live no momento <p>
+  <%= link_to 'New Live', new_life_path, class: "btn btn-primary btn-lg" %>
+<% end %>
+
+<h1>Live Hub</h1>
+
+<% @stories.each do |story| %>
+  <div class="panel panel-default">
+    <div class="panel-body">
+      <div class="row">
+        <div class="col-md-2">
+          <img src="<%= story.image_url %>" class="story_image">
+        </div>
+        <div class="col-md-8">
+          <p class="tag" style="color:<%= story.tag_color %>"><%= story.tag %></p>
+          <p class="title"><%= story.title %></p>
+          <p>Por <span class="source"><%= story.source %></span></p>
+        </div>
+        <div class="col-md-2">
+          <div class="list-group">
+            <%= link_to 'Show', story, :class => "list-group-item" %>
+            <%= link_to 'Edit', edit_story_path(story), :class => "list-group-item" %>
+            <%= link_to 'Destroy', story, method: :delete, data: { confirm: 'Are you sure?' }, :class => "list-group-item" %>
+          </div>
+        </div>     
+      </div>
+    </div>
+  </div>
+<% end %>
+
+<br>
+
+<%= link_to 'New Story', new_story_path, class: "btn btn-primary btn-lg" %>
+
+
+
+
+
