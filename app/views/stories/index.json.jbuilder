@@ -11,4 +11,5 @@ json.stories @stories do |story|
 	json.source story.source
 	json.publish_date story.publish_date
 	json.tag_color story.tag_color
+	json.thumbnail story.thumbnail
 end

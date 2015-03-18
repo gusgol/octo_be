@@ -4,7 +4,7 @@ class StoriesController < ApplicationController
   # GET /stories
   # GET /stories.json
   def index
-    @stories = Story.all
+    @stories = Story.all.order("publish_date DESC")
     @live = Live.first
   end
 
@@ -70,6 +70,6 @@ class StoriesController < ApplicationController
 
     # Never trust parameters from the scary internet, only allow the white list through.
     def story_params
-      params.require(:story).permit(:title, :url, :image_url, :tag, :source, :publish_date, :tag_color)
+      params.require(:story).permit(:title, :url, :image_url, :tag, :source, :publish_date, :tag_color, :thumbnail)
     end
 end
