@@ -8,6 +8,16 @@ class CardsController < ApplicationController
 
   end
 
+  def news
+    @@data = File.read(Rails.root + "public/static/news.json")
+    render :json => @@data
+  end
+
+  def cover
+    @@data = File.read(Rails.root + "public/static/cover-app.json")
+    render :json => @@data
+  end
+
   # GET /cards/1
   # GET /cards/1.json
   def show
