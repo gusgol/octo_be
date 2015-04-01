@@ -1,1 +1,88 @@
-{ "update":19427784060, "news":[ { "id":"5519b94ab6e39c00032d1b0e", "link":"http://horadesantacatarina.clicrbs.com.br/sc/noticia/2015/03/giovanna-lancellotti-quer-que-a-vejam-como-mulher-4729526.html", "sample":"Aos 21 anos, Giovanna Lancellotti diz que atingiu a seguran\u00e7a t\u00edpica da maturidade. ", "timestamp":19427784060, "tag":"Madura", "title":"M&M Giovanna Lancellotti #Giovana @Lancelloti [2] {testando 50% de R$ **} quer que a vejam como mulher", "img":{ "alt":"Giovanna Lancellotti quer que a vejam como mulher", "url":"http://www.clicrbs.com.br/rbs/image/17313271.jpg" }, "subtitle":"Atriz de Alto Astral discursa que n\u00e3o \u00e9 mais adolescente" }, { "id":"551c22d88cb14a0003924454", "source":{ "url":"http://diariodesantamaria.clicrbs.com.br", "icon":"http://adminocto.herokuapp.com/sicons/zerohora.png", "name":"Di\u00e1rio de Santa Maria" }, "link":"http://zh.clicrbs.com.br/rs/entretenimento/noticia/2015/04/zeca-camargo-deixa-video-show-e-monica-iozzi-assume-apresentacao-4730916.html", "sample":"Zeca Camargo deixa VÃ­deo Show e Monica Iozzi assume apresentaÃ§Ã£o", "timestamp":1427896395, "tag":"Troca", "title":"Zeca Camargo deixa VÃ­deo Show e Monica Iozzi assume apresentaÃ§Ã£o", "img":{ "alt":"ex-cqc Ã© a nova companheira de otaviano costa!", "url":"http://zh.rbsdirect.com.br/imagesrc/17316873.jpg?w=640" }, "subtitle":"A ex-CQC Ã© a nova companheira de Otaviano Costa no programa VÃ­deo Show, da Globo" }, { "id":"551c22d88cb14a0003924456", "link":"http://zh.clicrbs.com.br/rs/entretenimento/noticia/2015/04/10-livros-classicos-que-voce-pode-ler-de-graca-na-internet-4730688.html", "sample":"10 livros clÃ¡ssicos que vocÃª pode ler de graÃ§a, na internet", "timestamp":1427896395, "title":"10 livros clÃ¡ssicos que vocÃª pode ler de graÃ§a, na internet", "img":{ "alt":"Veridiana Freitas ama ficar nua para o povo ver!", "url":"http://zh.rbsdirect.com.br/imagesrc/17244960.jpg?w=640" }, "subtitle":"GraÃ§as ao domÃ­nio pÃºblico, a histÃ³ria da literatura brasileira estÃ¡ disponÃ­vel gratuitamente na web" }, { "id":"551c22d88cb14a000392447f", "source":{ "url":"http://diariogaucho.clicrbs.com.br", "icon":"http://adminocto.herokuapp.com/sicons/zerohora.png", "name":"Di\u00e1rio Ga\u00facho" }, "link":"http://zh.clicrbs.com.br/rs/vida-e-estilo/viagem/noticia/2015/03/conheca-a-dinamarca-o-pais-da-felicidade-4730177.html", "sample":"ConheÃ§a a Dinamarca, o paÃ­s da felicidade", "timestamp":1427896395, "tag":"Europa", "title":"ConheÃ§a a Dinamarca, o paÃ­s da felicidade", "subtitle":"No topo entre os paÃ­ses mais felizes do mundo, naÃ§Ã£o escandinava conjuga tradiÃ§Ã£o, modernidade e charme" }, { "id":"551c22d88cb14a000392449d", "link":"http://zh.clicrbs.com.br/rs/vida-e-estilo/vida/bem-estar/noticia/2015/03/numero-de-casos-de-dengue-dobra-no-rs-no-primeiro-trimestre-4730287.html", "sample":"NÃºmero de casos de dengue dobra no RS no primeiro trimestre", "timestamp":1427896395, "title":"NÃºmero de casos de dengue dobra no RS no primeiro trimestre", "subtitle":"Entre janeiro e marÃ§o de 2015, 123 casos foram confirmados, contra 53 no mesmo perÃ­odo em 2014." }, { "id":"551c22d88cb14a00039244ac", "source":{ "url":"http://zh.clicrbs.com.br", "icon":"http://adminocto.herokuapp.com/sicons/zerohora.png", "name":"Zero Hora" }, "link":"http://zh.clicrbs.com.br/rs/noticias/noticia/2015/04/petrobras-consegue-financiamento-de-us-3-5-bilhoes-na-china-4730938.html", "sample":"Dona de curvas monumentais, Veridiana Freitas \u00e9 a estrela da Playboy deste m\u00eas.", "timestamp":1427896395, "tag":"Ajuda estrangeira", "title":"Petrobras consegue financiamento de US$ 3,5 bilhÃµes na China", "img":{ "alt":"Petrobras consegue financiamento de US$ 3,5 bilhÃµes na China", "url":"http://zh.rbsdirect.com.br/imagesrc/17229613.jpg?w=640" }, "subtitle":"Contrato Ã© o primeiro a ser implementado ao longo de 2015 e 2016" } ] }
+﻿{
+   "update":19427784060,
+   "news":[
+      {
+         "id":"5519b94ab6e39c00032d1b0e",
+         "link":"http://zh.clicrbs.com.br/rs/vida-e-estilo/educacao/noticia/2015/04/ufrgs-divulga-lista-de-leituras-obrigatorias-4731013.html",
+         "sample":"UFRGS divulga lista de leituras obrigatórias.",
+         "timestamp":19427784060,
+         "tag":"Vestibular",
+         "title":"UFRGS divulga lista de leituras obrigatórias",
+         "img":{
+            "alt":"Giovanna Lancellotti quer que a vejam como mulher",
+            "url":"http://zh.rbsdirect.com.br/imagesrc/17317091.jpg?w=640"
+         },
+         "subtitle":"Quatro obras foram incluídas na relação do próximo concurso"
+      },
+      {
+         "id":"551c22d88cb14a0003924454",
+         "source":{
+            "url":"http://diariodesantamaria.clicrbs.com.br",
+            "icon":"http://adminocto.herokuapp.com/sicons/zerohora.png",
+            "name":"Diário de Santa Maria"
+         },
+         "link":"http://zh.clicrbs.com.br/rs/entretenimento/noticia/2015/04/zeca-camargo-deixa-video-show-e-monica-iozzi-assume-apresentacao-4730916.html",
+         "sample":"Zeca Camargo deixa Vídeo Show e Monica Iozzi assume apresentação",
+         "timestamp":1427896395,
+         "tag":"Troca",
+         "title":"Zeca Camargo deixa Vídeo Show e Monica Iozzi assume apresentação",
+         "img":{
+            "alt":"ex-cqc é a nova companheira de otaviano costa!",
+            "url":"http://zh.rbsdirect.com.br/imagesrc/17316873.jpg?w=640"
+         },
+         "subtitle":"A ex-CQC é a nova companheira de Otaviano Costa no programa Vídeo Show, da Globo"
+      },
+      {
+         "id":"551c22d88cb14a0003924456",
+         "link":"http://zh.clicrbs.com.br/rs/entretenimento/noticia/2015/04/10-livros-classicos-que-voce-pode-ler-de-graca-na-internet-4730688.html",
+         "sample":"10 livros clássicos que você pode ler de graça, na internet",
+         "timestamp":1427896395,
+         "title":"10 livros clássicos que você pode ler de graça, na internet",
+         "img":{
+            "alt":"10 livros clássicos que você pode ler de graça, na internet",
+            "url":"http://zh.rbsdirect.com.br/imagesrc/17244960.jpg?w=640"
+         },
+         "subtitle":"Graças ao domínio público, a história da literatura brasileira está disponível gratuitamente na web"
+      },
+      {
+         "id":"551c22d88cb14a000392447f",
+         "source":{
+            "url":"http://diariogaucho.clicrbs.com.br",
+            "icon":"http://adminocto.herokuapp.com/sicons/zerohora.png",
+            "name":"Di\u00e1rio Ga\u00facho"
+         },
+         "link":"http://zh.clicrbs.com.br/rs/vida-e-estilo/viagem/noticia/2015/03/conheca-a-dinamarca-o-pais-da-felicidade-4730177.html",
+         "sample":"ConheÃ§a a Dinamarca, o país da felicidade",
+         "timestamp":1427896395,
+         "tag":"Europa",
+         "title":"Conheça a Dinamarca, o país da felicidade",
+         "subtitle":"No topo entre os países mais felizes do mundo, nação escandinava conjuga tradição, modernidade e charme"
+      },
+      {
+         "id":"551c22d88cb14a000392449d",
+         "link":"http://zh.clicrbs.com.br/rs/vida-e-estilo/vida/bem-estar/noticia/2015/03/numero-de-casos-de-dengue-dobra-no-rs-no-primeiro-trimestre-4730287.html",
+         "sample":"Número de casos de dengue dobra no RS no primeiro trimestre",
+         "timestamp":1427896395,
+         "title":"Número de casos de dengue dobra no RS no primeiro trimestre",
+         "subtitle":"Entre janeiro e março de 2015, 123 casos foram confirmados, contra 53 no mesmo período em 2014."
+      },
+      {
+         "id":"551c22d88cb14a00039244ac",
+         "source":{
+            "url":"http://zh.clicrbs.com.br",
+            "icon":"http://adminocto.herokuapp.com/sicons/zerohora.png",
+            "name":"Zero Hora"
+         },
+         "link":"http://zh.clicrbs.com.br/rs/noticias/noticia/2015/04/petrobras-consegue-financiamento-de-us-3-5-bilhoes-na-china-4730938.html",
+         "sample":"Dona de curvas monumentais, Veridiana Freitas \u00e9 a estrela da Playboy deste m\u00eas.",
+         "timestamp":1427896395,
+         "tag":"Ajuda estrangeira",
+         "title":"Petrobras consegue financiamento de US$ 3,5 bilhões na China",
+         "img":{
+            "alt":"Petrobras consegue financiamento de US$ 3,5 bilhões na China",
+            "url":"http://zh.rbsdirect.com.br/imagesrc/17229613.jpg?w=640"
+         },
+         "subtitle":"Contrato é o primeiro a ser implementado ao longo de 2015 e 2016"
+      }
+   ]
+}

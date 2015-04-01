@@ -1,1 +1,83 @@
-{ "update":1426525720, "news":[ { "id":"4719579", "link":"http://m.zerohora.com.br/287/entretenimento/4719579/cantor-cauby-peixoto-recupera-se-em-casa", "type":"simple", "timestamp":1426525509, "title":"Cantor Cauby Peixoto recupera-se em casa", "img":{ "alt":"Cantor Cauby Peixoto recupera-se em casa", "url":"http://www.clicrbs.com.br/rbs/image/17285588.jpg" }, "subtitle":"Segundo a assessoria de imprensa do artista, ele est\u00e1 muito bem" }, { "id":"4719573", "link":"http://m.zerohora.com.br/noticia/4730901/r-5-7-milhoes-teriam-sido-desviados-de-projetos", "type":"simple", "timestamp":1426524970, "tag":"Em Pelotas", "title":"R$ 5,7 milhÃµes teriam sido desviados de projetos da UFPel", "img":{ "alt":"R$ 5,7 milhÃµes teriam sido desviados de projetos da UFPel", "url":"http://zh.rbsdirect.com.br/imagesrc/13673912.jpg?w=640" }, "subtitle":"O dinheiro teria ido para material de escritÃ³rio e gastos com pessoal entre 2005 e 2012" }, { "source":{ "icon":"http://adminocto.herokuapp.com/sicons/zerohora.png", "url":"http://zh.clicrbs.com.br", "name":"Zero Hora" }, "id":"4719565", "link":"http://m.zerohora.com.br/287/entretenimento/4730863/daniel-nao-sera-mais-jurado-do-the-voice-brasil", "type":"simple", "timestamp":1426524587, "title":"Daniel nÃ£o serÃ¡ mais jurado do The Voice Brasil", "img":{ "alt":"Daniel nÃ£o serÃ¡ mais jurado do The Voice Brasil", "url":"http://zh.rbsdirect.com.br/imagesrc/17316701.jpg?w=640" }, "subtitle":"Na quarta temporada do programa, outros tÃ©cnicos podem ser substituÃ­dos" }, { "source":{ "icon":"http://adminocto.herokuapp.com/sicons/zerohora.png", "url":"http://zh.clicrbs.com.br", "name":"Zero Hora" }, "id":"4719562", "link":"http://m.zerohora.com.br/287/entretenimento/4728819/zilu-godoi-faz-aula-de-danca-antes-de-estrear-na-teve", "type":"simple", "timestamp":1426524417, "tag":"Tev\u00ea", "title":"Zilu Godoi faz aula de danÃ§a antes de grande estrÃ©ia", "img":{ "alt":"Zilu Godoi faz aula de danÃ§a antes de estrÃ©ia", "url":"http://zh.rbsdirect.com.br/imagesrc/17311228.jpg?w=640" }, "subtitle":"Marlene Mattos, chefe de Zilu, quer que ela tenha mais noÃ§Ã£o de seus movimentos" }, { "source":{ "icon":"http://adminocto.herokuapp.com/sicons/zerohora.png", "url":"http://zh.clicrbs.com.br", "name":"Zero Hora" }, "id":"4719556", "link":"http://m.zerohora.com.br/285/esportes/4719556/ex-atacante-do-inter-comeca-bem-em-novo-clube-na-polonia", "type":"simple", "timestamp":1426524095, "tag":"Prata da Dupla", "title":"Ex-atacante do Inter come\u00e7a bem em novo clube na Pol\u00f4nia", "img":{ "alt":"Ex-atacante do Inter come\u00e7a bem em novo clube na Pol\u00f4nia\"", "url":"http://www.clicrbs.com.br/rbs/image/17285535.jpg" }, "subtitle":"Artilheiro na base colorada, Rafael Porcellis fez dois gols em dois jogos" } ] }
+﻿{
+   "update":1426525720,
+   "news":[
+      {
+         "id":"4719579",
+         "link":"http://m.zerohora.com.br/287/entretenimento/4719579/cantor-cauby-peixoto-recupera-se-em-casa",
+         "type":"simple",
+         "timestamp":1426525509,
+         "title":"Cantor Cauby Peixoto recupera-se em casa",
+         "img":{
+            "alt":"Cantor Cauby Peixoto recupera-se em casa",
+            "url":"http://www.clicrbs.com.br/rbs/image/17285588.jpg"
+         },
+         "subtitle":"Segundo a assessoria de imprensa do artista, ele está muito bem"
+      },
+      {
+         "id":"4719573",
+         "link":"http://m.zerohora.com.br/noticia/4730901/r-5-7-milhoes-teriam-sido-desviados-de-projetos",
+         "type":"simple",
+         "timestamp":1426524970,
+         "tag":"Em Pelotas",
+         "title":"R$ 5,7 milhões teriam sido desviados de projetos da UFPel",
+         "img":{
+            "alt":"R$ 5,7 milhões teriam sido desviados de projetos da UFPel",
+            "url":"http://zh.rbsdirect.com.br/imagesrc/13673912.jpg?w=640"
+         },
+         "subtitle":"O dinheiro teria ido para material de escritório e gastos com pessoal entre 2005 e 2012"
+      },
+      {
+         "source":{
+            "icon":"http://adminocto.herokuapp.com/sicons/zerohora.png",
+            "url":"http://zh.clicrbs.com.br",
+            "name":"Zero Hora"
+         },
+         "id":"4719565",
+         "link":"http://m.zerohora.com.br/287/entretenimento/4730863/daniel-nao-sera-mais-jurado-do-the-voice-brasil",
+         "type":"simple",
+         "timestamp":1426524587,
+         "title":"Daniel não será¡ mais jurado do The Voice Brasil",
+         "img":{
+            "alt":"Daniel não será mais jurado do The Voice Brasil",
+            "url":"http://zh.rbsdirect.com.br/imagesrc/17316701.jpg?w=640"
+         },
+         "subtitle":"Na quarta temporada do programa, outros técnicos podem ser substituí­dos"
+      },
+      {
+         "source":{
+            "icon":"http://adminocto.herokuapp.com/sicons/zerohora.png",
+            "url":"http://zh.clicrbs.com.br",
+            "name":"Zero Hora"
+         },
+         "id":"4719562",
+         "link":"http://m.zerohora.com.br/287/entretenimento/4728819/zilu-godoi-faz-aula-de-danca-antes-de-estrear-na-teve",
+         "type":"simple",
+         "timestamp":1426524417,
+         "tag":"Tev\u00ea",
+         "title":"Zilu Godoi faz aula de dança antes de grande estória",
+         "img":{
+            "alt":"Zilu Godoi faz aula de dança antes de estória",
+            "url":"http://zh.rbsdirect.com.br/imagesrc/17311228.jpg?w=640"
+         },
+         "subtitle":"Marlene Mattos, chefe de Zilu, quer que ela tenha mais noção de seus movimentos"
+      },
+      {
+         "source":{
+            "icon":"http://adminocto.herokuapp.com/sicons/zerohora.png",
+            "url":"http://zh.clicrbs.com.br",
+            "name":"Zero Hora"
+         },
+         "id":"4719556",
+         "link":"http://m.zerohora.com.br/285/esportes/4719556/ex-atacante-do-inter-comeca-bem-em-novo-clube-na-polonia",
+         "type":"simple",
+         "timestamp":1426524095,
+         "tag":"Prata da Dupla",
+         "title":"Ex-atacante do Inter começa bem em novo clube na Polônia",
+         "img":{
+            "alt":"Ex-atacante do Inter começa bem em novo clube na Polônia",
+            "url":"http://www.clicrbs.com.br/rbs/image/17285535.jpg"
+         },
+         "subtitle":"Artilheiro na base colorada, Rafael Porcellis fez dois gols em dois jogos"
+      }
+   ]
+}
