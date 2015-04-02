@@ -52,7 +52,7 @@
             "name":"Di\u00e1rio Ga\u00facho"
          },
          "link":"http://zh.clicrbs.com.br/rs/vida-e-estilo/viagem/noticia/2015/03/conheca-a-dinamarca-o-pais-da-felicidade-4730177.html",
-         "sample":"ConheÃ§a a Dinamarca, o país da felicidade",
+         "sample":"Conheça a Dinamarca, o país da felicidade",
          "timestamp":1427896395,
          "tag":"Europa",
          "title":"Conheça a Dinamarca, o país da felicidade",
@@ -63,6 +63,7 @@
          "link":"http://zh.clicrbs.com.br/rs/vida-e-estilo/vida/bem-estar/noticia/2015/03/numero-de-casos-de-dengue-dobra-no-rs-no-primeiro-trimestre-4730287.html",
          "sample":"Número de casos de dengue dobra no RS no primeiro trimestre",
          "timestamp":1427896395,
+         "tag":"Saúde",
          "title":"Número de casos de dengue dobra no RS no primeiro trimestre",
          "subtitle":"Entre janeiro e março de 2015, 123 casos foram confirmados, contra 53 no mesmo período em 2014."
       },
