@@ -83,6 +83,20 @@
             "url":"http://zh.rbsdirect.com.br/imagesrc/17229613.jpg?w=640"
          },
          "subtitle":"Contrato é o primeiro a ser implementado ao longo de 2015 e 2016"
+      },
+      {
+         "id":"12345dummy",
+         "link":"http://www.wwf.org.br/?referer=wwforg",
+         "sample":"UFRGS divulga lista de leituras obrigatórias.",
+         "timestamp":1423526400,
+         "tag":"Grave Acidente",
+         "title":"Em vídeo: Veja o local do acidente ocorreu agora pouco na BR-38",
+         "img":{
+            "alt":"Acidente",
+            "url":"http://oi61.tinypic.com/2vmhno0.jpg"
+         },
+         "subtitle":"Quatro obras foram incluídas na relação do próximo concurso"
       }
+
    ]
 }
